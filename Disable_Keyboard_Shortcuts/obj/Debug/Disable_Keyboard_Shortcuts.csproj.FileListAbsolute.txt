@@ -1,0 +1,15 @@
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\bin\Debug\Disable_Keyboard_Shortcuts.exe.config
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\bin\Debug\Disable_Keyboard_Shortcuts.exe
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\bin\Debug\Disable_Keyboard_Shortcuts.pdb
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\Disable_Keyboard_Shortcuts.csprojAssemblyReference.cache
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\MainWindow.g.cs
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\App.g.cs
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\Disable_Keyboard_Shortcuts_MarkupCompile.cache
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\Disable_Keyboard_Shortcuts_MarkupCompile.lref
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\MainWindow.baml
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\Disable_Keyboard_Shortcuts.g.resources
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\Disable_Keyboard_Shortcuts.Properties.Resources.resources
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\Disable_Keyboard_Shortcuts.csproj.GenerateResource.cache
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\Disable_Keyboard_Shortcuts.csproj.CoreCompileInputs.cache
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\Disable_Keyboard_Shortcuts.exe
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\Disable_Keyboard_Shortcuts.pdb

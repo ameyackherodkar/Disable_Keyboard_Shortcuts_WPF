@@ -1,0 +1,15 @@
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\bin\Debug\CombinationKeys-Lates.exe.config
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\bin\Debug\CombinationKeys-Lates.exe
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\bin\Debug\CombinationKeys-Lates.pdb
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\MainWindow.g.cs
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\App.g.cs
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\CombinationKeys-Lates_MarkupCompile.cache
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\CombinationKeys-Lates_MarkupCompile.lref
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\MainWindow.baml
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\CombinationKeys-Lates.g.resources
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\CombinationKeys_Lates.Properties.Resources.resources
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\CombinationKeys-Lates.csproj.GenerateResource.cache
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\CombinationKeys-Lates.csproj.CoreCompileInputs.cache
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\CombinationKeys-Lates.exe
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\CombinationKeys-Lates.pdb
+C:\Users\akherodkar\source\repos\CombinationKeys-Lates\CombinationKeys-Lates\obj\Debug\CombinationKeys-Lates.csprojAssemblyReference.cache

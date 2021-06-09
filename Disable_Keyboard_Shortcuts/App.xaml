@@ -1,0 +1,9 @@
+﻿<Application x:Class="CombinationKeys_Lates.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CombinationKeys_Lates"
+             Startup="Application_Startup">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

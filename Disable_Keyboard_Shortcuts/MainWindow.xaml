@@ -1,0 +1,14 @@
+﻿<Window x:Class="CombinationKeys_Lates.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CombinationKeys_Lates"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="MainWindow" ResizeMode="NoResize" WindowState="Maximized">
+    <Grid >
+        <Label Content="Track Combination Keys" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="35" Width="175" FontWeight="Bold"/>
+    </Grid>
+</Window>
+ 
